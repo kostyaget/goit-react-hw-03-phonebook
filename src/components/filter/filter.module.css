@@ -1,0 +1,17 @@
+.filter_form {
+    padding: 10px;
+    width: 277px;
+
+    margin-bottom: 20px;
+
+    border-radius: 4px;
+    border: 1px solid black;
+    outline: none;
+
+    color: red;
+}
+
+.filter_label {
+    font-style: italic;
+    font-weight: bold;
+}
